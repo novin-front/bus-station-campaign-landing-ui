@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.997" height="41.996" viewBox="0 0 41.997 41.996">
+    <g data-name="vuesax/bulk/convert-card">
+        <path data-name="Vector (Stroke)" d="M13.561 0a1.312 1.312 0 0 1 1.312 1.312A13.552 13.552 0 0 1 1.312 14.874a1.312 1.312 0 0 1-1.125-1.988l1.837-3.062a1.312 1.312 0 0 1 2.251 1.35l-.475.791a10.93 10.93 0 0 0 8.449-10.653A1.312 1.312 0 0 1 13.561 0z" transform="translate(24.935 24.935)" style="fill:#ffb342"/>
+        <path data-name="Vector (Stroke)" d="M11.073 2.908a10.93 10.93 0 0 0-8.448 10.653 1.312 1.312 0 0 1-2.625 0A13.552 13.552 0 0 1 13.561 0a1.312 1.312 0 0 1 1.125 1.988L12.849 5.05A1.312 1.312 0 0 1 10.6 3.7z" style="fill:#ffb342" transform="translate(2.187 2.187)"/>
+        <path data-name="Vector" d="M17.5 3.85v1.067H0V3.85C0 .77.77 0 3.885 0h9.729C16.729 0 17.5.77 17.5 3.85z" transform="translate(3.5 23.623)" style="fill:#ffb342"/>
+        <path data-name="Vector" d="M0 0v6.107c0 3.08.77 3.85 3.885 3.85h9.729c3.115 0 3.885-.77 3.885-3.85V0z" transform="translate(3.5 28.54)" style="fill:#2a4fcd"/>
+        <path data-name="Vector" d="M17.5 3.85v1.067H0V3.85C0 .77.77 0 3.885 0h9.729C16.729 0 17.5.77 17.5 3.85z" transform="translate(20.998 3.5)" style="fill:#ffb342"/>
+        <path data-name="Vector" d="M0 0v6.107c0 3.08.77 3.85 3.885 3.85h9.729c3.115 0 3.885-.77 3.885-3.85V0z" transform="translate(20.998 8.417)" style="fill:#2a4fcd"/>
+    </g>
+</svg>

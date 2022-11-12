@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="41.998" height="41.998" viewBox="0 0 41.998 41.998">
+    <g data-name="vuesax/bulk/simcard">
+        <path d="m28.944 7.945-5.372-5.373A8.755 8.755 0 0 0 17.377 0H8.75C3.5 0 0 3.5 0 8.75v17.5C0 31.5 3.5 35 8.75 35h14c5.25 0 8.75-3.5 8.75-8.75V14.122a8.741 8.741 0 0 0-2.556-6.177z" transform="translate(5.25 3.5)" style="fill:#284cc5"/>
+        <path data-name="Vector" d="M7.875 6.562V0H5.25A5.265 5.265 0 0 0 0 5.25V7h7.437a.433.433 0 0 0 .438-.438z" transform="translate(12.249 16.624)" style="fill:#ffb342"/>
+        <path data-name="Vector" d="M.437 7h7.438V5.25A5.265 5.265 0 0 0 2.625 0H0v6.562A.433.433 0 0 0 .437 7z" transform="translate(21.874 16.624)" style="fill:#ffb342"/>
+        <path data-name="Vector" d="M7.437 0H0v1.75A5.265 5.265 0 0 0 5.25 7h2.625V.437A.433.433 0 0 0 7.437 0z" transform="translate(12.249 25.374)" style="fill:#ffb342"/>
+        <path data-name="Vector" d="M0 .437V7h2.625a5.265 5.265 0 0 0 5.25-5.25V0H.437A.433.433 0 0 0 0 .437z" transform="translate(21.874 25.374)" style="fill:#ffb342"/>
+    </g>
+</svg>

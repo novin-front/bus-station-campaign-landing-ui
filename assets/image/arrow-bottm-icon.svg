@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <linearGradient id="53a44kfx6a" x1=".5" y1="1" x2=".5" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#023679"/>
+            <stop offset="1" stop-color="#0e7aff"/>
+        </linearGradient>
+        <clipPath id="pf7cqsionb">
+            <path data-name="Rectangle 1280" style="fill:url(#53a44kfx6a);stroke:#707070" d="M0 0h24v24H0z"/>
+        </clipPath>
+    </defs>
+    <g style="clip-path:url(#pf7cqsionb)">
+        <path d="M7.41 10.58 2.83 6l4.58-4.59L6 0 0 6l6 6z" transform="rotate(-90 11.068 5.067)" style="fill:url(#53a44kfx6a)" data-name="Mask Group 88"/>
+    </g>
+</svg>
